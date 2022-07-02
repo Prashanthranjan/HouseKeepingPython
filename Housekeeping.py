@@ -47,6 +47,3 @@ for f in os.listdir(n):
             logger.info("File removed successfully !")
         else :
             logger.info("No file found to delete !!")
-
-
-
